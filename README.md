@@ -1,3 +1,3 @@
 # INF1
-Einführung in die Informatik 1
---> Alle Übungen zum oben stehenden Modul
+Einfuehrung in die Informatik 1
+--> Alle Uebungen zum oben stehenden Modul
