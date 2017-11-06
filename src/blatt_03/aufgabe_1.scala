@@ -13,7 +13,7 @@ def main (args: Array[String]): Unit = {
 	def binKoeff (m : Int, n : Int) : Int = fak(m) / (fak(n) * fak(m-n))
 	
 		def fak (x : Int) : Int = 
-	  if (x == 0) 1
+	  if (x == 0||x==1) 1
 	  else x * fak(x-1)
 	 
 	  
